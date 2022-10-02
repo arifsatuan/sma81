@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Arf&#39;s Note</title>
+    <link>https://examplesite.com/post/</link>
+    <description>Recent content in Posts on Arf&#39;s Note</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Oct 2022 11:10:12 +0700</lastBuildDate><atom:link href="https://examplesite.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://examplesite.com/post/hello/</link>
+      <pubDate>Sun, 02 Oct 2022 11:10:12 +0700</pubDate>
+      
+      <guid>https://examplesite.com/post/hello/</guid>
+      <description>Pembuatan fungsi dimulai dari rumusan seperti berikut ini
+sudo dpkg -i linux.deb Tampilan membuat hati ❤️</description>
+    </item>
+    
+  </channel>
+</rss>
