@@ -15,6 +15,7 @@ minify:
   minifyOutput: true
 
 params:
+  ShowCodeCopyButtons: true
   showtoc: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Arif Satuan
@@ -30,7 +31,6 @@ params:
     #  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
