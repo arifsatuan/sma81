@@ -15,6 +15,7 @@ minify:
   minifyOutput: true
 
 params:
+  showtoc: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Arif Satuan
   description: "ExampleSite description"
