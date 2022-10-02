@@ -110,4 +110,4 @@ Bagian selanjutnya adalah memanfaatkan `vlookup`, `concatenate` dengan variabel 
 
 > Tips! Jika ingin membuat folder untuk satu kantor, sekolah, gunakan nama yang bagus seperti NIS, Nomor Karyawan, dsb. 
 
-
+Jika berminat untuk _copy_ file spreadsheet bisa buka [link berikut](https://docs.google.com/spreadsheets/d/1VlWEyLayLjpwTselyJLoytKSI9P0SCwHoYGCLHmR1Wk/copy)
