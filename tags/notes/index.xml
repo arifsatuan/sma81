@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Arf&#39;s Note</title>
-    <link>https://arifsatuan.github.io/</link>
-    <description>Recent content on Arf&#39;s Note</description>
+    <title>notes on Arf&#39;s Note</title>
+    <link>https://arifsatuan.github.io/tags/notes/</link>
+    <description>Recent content in notes on Arf&#39;s Note</description>
     <image>
       <url>https://arifsatuan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://arifsatuan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Oct 2022 11:10:12 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 11:10:12 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://arifsatuan.github.io/post/hello/</link>
@@ -21,8 +21,6 @@
 Kedepannya, blog ini semoga konsisten sebagai catatan dan dokumentasi kegiatan sehari-hari.
 Sebagai bukti bahwa blog ini sebagai dokumentasi, ingatlah perintah ini</description>
     </item>
-    
-    
     
   </channel>
 </rss>
