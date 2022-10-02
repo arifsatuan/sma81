@@ -9,7 +9,18 @@
       <link>https://arifsatuan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Oct 2022 15:18:27 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 16:52:33 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membuat Folder Otomatis</title>
+      <link>https://arifsatuan.github.io/post/script_folder/</link>
+      <pubDate>Sun, 02 Oct 2022 16:52:33 +0700</pubDate>
+      
+      <guid>https://arifsatuan.github.io/post/script_folder/</guid>
+      <description>Pada postingan sebelumnya disebutkan bahwa jika ingin membuat validasi folder sudah terisi atau belum dapat menggunakan script Membaca Folder Google Drive. Masalah muncul jika folder yang disediakan sangat banyak (sejumlah siswa atau karyawan kantor), maka membuat folder juga perlu dikerjakan menggunakan script.
+Pada alamat google drive, ada bagian yang menunjukkan Folder Id
+https://drive.google.com/drive/folders/1NLGj1fbN7Gl2Fp1qVqxoC8OnURxlFl1l Perhatikan 1NLGj1fbN7Gl2Fp1qVqxoC8OnURxlFl1l adalah folder Id. Kemudian buat script baru dengan klik New di google drive -&amp;gt; more -&amp;gt; Google Appscript</description>
+    </item>
+    
     <item>
       <title>Membaca Folder Google Drive Otomatis</title>
       <link>https://arifsatuan.github.io/post/script_gdrive/</link>
