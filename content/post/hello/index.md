@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2022-10-02T11:10:12+07:00
 draft: false
 ---
-Membuat blog menggunakan [**HUGO**](https://gohugo.io) membutuhkan waktu lama dan menguras banyak tenaga di awal. Tentu saja karena bahasa [Go](https://go.dev/doc/tutorial/create-module) yang masih terbilang kurang familiar. Nah, kalau kata anak sekarang "Gass" aja deh. Entah orang bijak atau orang iseng, namun kalimat berikut cukup memberikan gambaran kenapa ada orang punya hobi yang **serius**.
+Membuat blog menggunakan [**HUGO**](https://gohugo.io) membutuhkan waktu lama dan menguras banyak tenaga di awal. Tentu saja karena bahasa [Go](https://go.dev/doc/tutorial/create-module) yang masih terbilang kurang familiar. Justru ini tantangan, pantang untuk mundur. Toh dari lahir manusia sudah didesain mampu menghadapi kesulitan.
 
 > "_walaupun sulit, besok juga sulit, kenapa tidak bersenang senang dengan kesulitan ini_"
 
