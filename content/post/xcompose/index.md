@@ -37,9 +37,9 @@ Pengaplikasian cukup mudah. Baik di **windows** maupun **linux** kombinasinya se
 
 Admin yang ingin melakukan rekapitulasi dengan tanda cheklist juga tidak perlu repot hanya dengan 
 
-`Alt [ spasi ]` bisa menghasilkan `☐`
+`Alt` `[` `spasi` `]` bisa menghasilkan `☐`
 
-`Alt [ v ]` bisa menghasilkan `☑`
+`Alt` `[` `v` `]` bisa menghasilkan `☑`
 
 ![google sheet insert symbol](sheet_insert_symbol.png)
 
