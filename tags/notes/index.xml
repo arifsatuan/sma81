@@ -9,7 +9,17 @@
       <link>https://arifsatuan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 11:09:17 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Oct 2022 12:58:48 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Highlight Duplicate di Google Sheets</title>
+      <link>https://arifsatuan.github.io/post/highlight_google_spreadsheet/</link>
+      <pubDate>Mon, 03 Oct 2022 12:58:48 +0700</pubDate>
+      
+      <guid>https://arifsatuan.github.io/post/highlight_google_spreadsheet/</guid>
+      <description>Penggunaan google spreadsheet semenjak pasca pandemi terus meningkat. Berbagai macam alasan mulai dari kemampuan kolaborasi maupun kepraktisan tinggal share. Ada kalanya kebutuhan yang ada di ms excel tidak dapat dijawab secara langsung di google spreadsheet, perlu pengaturan khusus. Salah satu yang saya temukan adalah highlight duplicate cell
+Langkah Langkah pengerjaannya cukup mudah. Pertama pastikan cell mana yang akan dicek duplikasinya. Pada contoh ada di B2 hingga B8. Bisa sebutkan dari B2:B jika ke bawah semaksimalnya.</description>
+    </item>
+    
     <item>
       <title>Shortcut Symbol Windows dan Linux</title>
       <link>https://arifsatuan.github.io/post/xcompose/</link>
