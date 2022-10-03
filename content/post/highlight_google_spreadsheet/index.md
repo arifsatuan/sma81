@@ -6,7 +6,7 @@ tags:
 - notes
 - googlesheets
 ---
-Penggunaan google spreadsheet semenjak pasca pandemi terus meningkat. Berbagai macam alasan mulai dari kemampuan kolaborasi maupun kepraktisan _tinggal share_.
+Penggunaan google spreadsheet semenjak pasca pandemi terus meningkat dan menjadi pengganti ms excel.  
 Ada kalanya kebutuhan yang ada di ms excel tidak dapat dijawab secara langsung di google spreadsheet, perlu pengaturan khusus. Salah satu yang saya temukan adalah highlight duplicate cell
 
 ## Langkah 
