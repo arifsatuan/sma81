@@ -113,6 +113,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 10
     - identifier: archives
       name: archives
       url: /archives/
@@ -136,3 +140,8 @@ markup:
     # lineNos: true
     # style: monokai
 enableEmoji: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
