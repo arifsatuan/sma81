@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tools on arifsatuan</title>
+    <link>https://arifsatuan.github.io/tags/tools/</link>
+    <description>Recent content in tools on arifsatuan</description>
+    <image>
+      <url>https://arifsatuan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://arifsatuan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Oct 2022 11:09:17 +0700</lastBuildDate><atom:link href="https://arifsatuan.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcut Symbol Windows dan Linux</title>
+      <link>https://arifsatuan.github.io/post/xcompose/</link>
+      <pubDate>Mon, 03 Oct 2022 11:09:17 +0700</pubDate>
+      
+      <guid>https://arifsatuan.github.io/post/xcompose/</guid>
+      <description>Bagi sebagian orang menuliskan symbol tertentu tidak terlalu penting, namun bagi sebagian orang hal tersebut menjadi vital. Misal saja seorang guru ingin menuliskan 3akar2 akan lebih baik jika ditulis 3√2. Begitu juga simbol theta, setengah, alfa, pangkat dua dsb θ, ½, α, x²
+Install Menuliskan simbol-simbol umum cukup menggunakan tool yang disebut Compose. Di windows kita gunakan WinCompose sedangkan di linux ada XCompose
+Pada windows hanya cukup install WinCompose di sini</description>
+    </item>
+    
+  </channel>
+</rss>
