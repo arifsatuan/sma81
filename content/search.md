@@ -4,6 +4,6 @@ layout: "search" # is necessary
 url: "/search"
 description: ""
 summary: "search"
-placeholder: "placeholder text in search input box"
+placeholder: "ketik kata kunci yang dicari"
 ---
 
