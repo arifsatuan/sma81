@@ -37,4 +37,4 @@ Struktur folder harus terisi seperti berikut
   - format ada di [sini](https://bit.ly/formatlaporanprojek81)
   - laporan ditandatangi oleh guru pembimbing
 * Power point (_optional_), persiapan presentasi pameran
-* Pertanyaan hubungi [Pak Arif] (https://wa.me/6282227551553), [Bu Fitria] (https://wa.me/6282114214648) 
+* Pertanyaan hubungi [Pak Arif](https://wa.me/6282227551553), [Bu Fitria](https://wa.me/6282114214648), [Bu Byas](https://wa.me/628999787815)
