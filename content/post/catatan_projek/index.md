@@ -6,7 +6,7 @@ draft: false
 ## List yang dikumpulkan 
 
 Pada pelaporan projek, hal yang perlu dipersiapkan
-* Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81)
+* Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81) dan [rekapitulasi](https://bit.ly/driveprojek81-rekap)
 * Infografis laporan pelaksanaan
   - judul 
   - latar belakang singkat
