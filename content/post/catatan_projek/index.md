@@ -7,6 +7,27 @@ draft: false
 
 Pada pelaporan projek, hal yang perlu dipersiapkan
 * Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81) dan [rekapitulasi](https://bit.ly/driveprojek81-rekap)
+* Dokumentasi minimal 5 dengan nama file yang deskriptif, misal : `Kegiatan menentukan tempat pelaksanaan.jpg`
+![Gambar Direname](rename.png)
+Struktur folder harus terisi seperti berikut
+```
+├── 10-1
+│   ├── Dok_persiapan
+│   │   ├──gambar1.jpg
+│   │   ├──gambar2.jpg
+│   │   ├── . . .
+│   │   ├──gambar5.jpg
+│   ├── Dok_pelaksanaan
+│   ├── Dok_produk
+│   ├── Proposal
+│   │   ├──proposal.pdf
+│   ├── dst . . .
+├── 10-2
+├── 10-3
+├── dst . . 
+
+```
+
 * Infografis laporan pelaksanaan
   - judul 
   - latar belakang singkat
@@ -16,4 +37,4 @@ Pada pelaporan projek, hal yang perlu dipersiapkan
   - format ada di [sini](https://bit.ly/formatlaporanprojek81)
   - laporan ditandatangi oleh guru pembimbing
 * Power point (_optional_), persiapan presentasi pameran
- 
+* Pertanyaan hubungi [Pak Arif] (https://wa.me/6282227551553), [Bu Fitria] (https://wa.me/6282114214648) 
