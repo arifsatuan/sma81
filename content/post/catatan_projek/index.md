@@ -27,7 +27,8 @@ Struktur folder harus terisi seperti berikut
 ├── dst . . 
 
 ```
-
+Sehingga akan direkapitulasi dalam bentuk cheklist 
+![Rekapitulasi cheklist](rekap.png)
 * Infografis laporan pelaksanaan
   - judul 
   - latar belakang singkat
