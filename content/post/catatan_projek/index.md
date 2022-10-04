@@ -16,7 +16,7 @@ Struktur folder harus terisi seperti berikut
 │   │   ├──gambar1.jpg
 │   │   ├──gambar2.jpg
 │   │   ├── . . .
-│   │   ├──gambar5.jpg
+│   │   ├──gambar10.jpg
 │   ├── Dok_pelaksanaan
 │   ├── Dok_produk
 │   ├── Proposal
