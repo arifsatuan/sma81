@@ -6,7 +6,7 @@ draft: false
 ## List yang dikumpulkan 
 
 Pada pelaporan projek, hal yang perlu dipersiapkan
-* Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81) dan [rekapitulasi](https://bit.ly/driveprojek81-rekap)
+* Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81)
 * Dokumentasi minimal 5 dengan nama file yang deskriptif, misal : `Kegiatan menentukan tempat pelaksanaan.jpg`
 ![Gambar Direname](rename.png)
 Struktur folder harus terisi seperti berikut
@@ -29,6 +29,7 @@ Struktur folder harus terisi seperti berikut
 ```
 Sehingga akan direkapitulasi dalam bentuk cheklist 
 ![Rekapitulasi cheklist](rekap.png)
+Link [rekapitulasi di sini](https://bit.ly/driveprojek81-rekap)
 * Infografis laporan pelaksanaan
   - judul 
   - latar belakang singkat
