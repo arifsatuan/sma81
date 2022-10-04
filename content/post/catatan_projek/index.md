@@ -6,6 +6,7 @@ draft: false
 ## List yang dikumpulkan 
 
 Pada pelaporan projek, hal yang perlu dipersiapkan
+* Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81)
 * Infografis laporan pelaksanaan
   - judul 
   - latar belakang singkat
@@ -15,5 +16,4 @@ Pada pelaporan projek, hal yang perlu dipersiapkan
   - format ada di [sini](https://bit.ly/formatlaporanprojek81)
   - laporan ditandatangi oleh guru pembimbing
 * Power point (_optional_), persiapan presentasi pameran
-* Wajib mengumpulkan dokumentasi per kelompok di [google drive](https://bit.ly/driveprojek81)
  
