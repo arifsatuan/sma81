@@ -27,7 +27,7 @@ Struktur folder harus terisi seperti berikut
 ├── dst . . 
 
 ```
-Sehingga akan direkapitulasi dalam bentuk cheklist (update otomatis) 
+Sehingga akan direkapitulasi dalam bentuk cheklist (update otomatisi ±15 min ) 
 ![Rekapitulasi cheklist](rekap.png)
 Link [rekapitulasi di sini](https://bit.ly/driveprojek81-rekap)
 * Infografis laporan pelaksanaan
