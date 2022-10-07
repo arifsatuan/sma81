@@ -42,8 +42,8 @@ Link [rekapitulasi di sini](#update-catatan)
 * Pertanyaan hubungi [Pak Arif](https://wa.me/6282227551553), [Bu Fitria](https://wa.me/6282114214648), [Bu Byas](https://wa.me/628999787815)
 
 ### update catatan
->1. Pastikan kata pengantar tidak ada kata "Mentor" dan "aktualisasii"
->2. Foto dokumentasi minimal 5 (lima) dengan nama deskriptif **jangan** `WA-123242.PNG` atau `IMG-23-03-22.PNG` **ubah menjadi** `Proses mengolah awal.PNG` `Kegiatan mengumpulkan daun.PNG` dan sebagainya
+>1. Pastikan kata pengantar tidak ada kata "Mentor" dan "aktualisasi" (kekeliruan pada contoh)
+>2. Foto dokumentasi minimal 5 (lima) dengan nama deskriptif **jangan** `WA-123242.PNG`  **ubah menjadi** `Proses mengolah awal.PNG` dan sebagainya.
 >3. Upload Laporan setelah final (melalui proses revisi) dan disimpan dalam format PDF
 >4. Link baru rekapitulasi ada [di sini](https://bit.ly/3VaYdsz) | link upload [google drive](https://bit.ly/driveprojek81)
 
