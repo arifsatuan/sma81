@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://arifsatuan.github.io/sitemap.xml
+Sitemap: https://sma81.pages.dev/sitemap.xml
