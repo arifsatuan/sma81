@@ -45,5 +45,6 @@ Link [rekapitulasi di sini](#update-catatan)
 >1. Pastikan kata pengantar tidak ada kata "Mentor" dan "aktualisasi" (kekeliruan pada contoh)
 >2. Foto dokumentasi minimal 5 (lima) dengan nama deskriptif **jangan** `WA-123242.PNG`  **ubah menjadi** `Proses mengolah awal.PNG` dan sebagainya.
 >3. Upload Laporan setelah final (melalui proses revisi) dan disimpan dalam format PDF
->4. Link baru rekapitulasi ada [di sini](https://bit.ly/3VaYdsz) | link upload [google drive](https://bit.ly/driveprojek81)
+>4. Link format lembar pengesahan ada [di sini](https://docs.google.com/document/d/1Qs5YXfWuuWjVprZev7kM22-rUmaN8M2d0faKk8Ff1pA/copy)
+>5. Link baru rekapitulasi ada [di sini](https://bit.ly/3VaYdsz) | link upload [google drive](https://bit.ly/driveprojek81)
 
