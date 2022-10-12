@@ -5,7 +5,14 @@ draft: false
 ---
 ### 1. Pengisian (oleh guru pendamping)
 Pengisian nilai oleh guru pendamping bisa dilakukan di link berikut
-[klik di sini](https://docs.google.com/spreadsheets/d/1tBHV7tGByNs0mbf-6sSjajwS1Rc4NwfCRVRPEOI1SMA/edit)
+[klik di sini](https://docs.google.com/spreadsheets/d/1tBHV7tGByNs0mbf-6sSjajwS1Rc4NwfCRVRPEOI1SMA/edit). 
+
+| KODE | Kepanjangan               |
+|------|---------------------------|
+| SB   | Sudah Berkembang          |
+| BSH  | Berkembang Sesuai Harapan |
+| MB   | Mulai Berkembang          |
+| BB   | Belum Berkembang          |
 
 ### 2. Rapor Projek versi Excel 
 Berikut link download rapor projek untuk wali kelas
