@@ -8,52 +8,6 @@
       <url>https://sma81.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://sma81.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 12:58:48 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>googlesheets</title>
-      <link>https://sma81.pages.dev/tags/googlesheets/</link>
-      <pubDate>Mon, 03 Oct 2022 12:58:48 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/tags/googlesheets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>notes</title>
-      <link>https://sma81.pages.dev/tags/notes/</link>
-      <pubDate>Mon, 03 Oct 2022 12:58:48 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/tags/notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>https://sma81.pages.dev/tags/tools/</link>
-      <pubDate>Mon, 03 Oct 2022 11:09:17 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/tags/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>googlescript</title>
-      <link>https://sma81.pages.dev/tags/googlescript/</link>
-      <pubDate>Sun, 02 Oct 2022 16:52:33 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/tags/googlescript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://sma81.pages.dev/tags/git/</link>
-      <pubDate>Sun, 02 Oct 2022 11:10:12 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/tags/git/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sma81.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

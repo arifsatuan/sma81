@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sma81.pages.dev/bak/</loc>
-    <lastmod>2022-10-12T15:37:51+07:00</lastmod>
-  </url><url>
     <loc>https://sma81.pages.dev/</loc>
-    <lastmod>2022-10-12T15:37:51+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/bak/penilaian-teman-projek1/</loc>
     <lastmod>2022-10-12T15:37:51+07:00</lastmod>
   </url><url>
     <loc>https://sma81.pages.dev/post/penilaian-teman-projek1/</loc>
@@ -23,43 +17,12 @@
     <loc>https://sma81.pages.dev/post/catatan_projek/</loc>
     <lastmod>2022-10-04T11:37:51+07:00</lastmod>
   </url><url>
-    <loc>https://sma81.pages.dev/tags/googlesheets/</loc>
-    <lastmod>2022-10-03T12:58:48+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/bak/highlight_google_spreadsheet/</loc>
-    <lastmod>2022-10-03T12:58:48+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/tags/notes/</loc>
-    <lastmod>2022-10-03T12:58:48+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/tags/</loc>
-    <lastmod>2022-10-03T12:58:48+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/bak/xcompose/</loc>
-    <lastmod>2022-10-03T11:09:17+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/tags/tools/</loc>
-    <lastmod>2022-10-03T11:09:17+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/tags/googlescript/</loc>
-    <lastmod>2022-10-02T16:52:33+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/bak/script_folder/</loc>
-    <lastmod>2022-10-02T16:52:33+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/bak/script_gdrive/</loc>
-    <lastmod>2022-10-02T15:18:27+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/tags/git/</loc>
-    <lastmod>2022-10-02T11:10:12+07:00</lastmod>
-  </url><url>
-    <loc>https://sma81.pages.dev/bak/hello/</loc>
-    <lastmod>2022-10-02T11:10:12+07:00</lastmod>
-  </url><url>
     <loc>https://sma81.pages.dev/archives/</loc>
   </url><url>
     <loc>https://sma81.pages.dev/categories/</loc>
   </url><url>
     <loc>https://sma81.pages.dev/search/</loc>
+  </url><url>
+    <loc>https://sma81.pages.dev/tags/</loc>
   </url>
 </urlset>
