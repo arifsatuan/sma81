@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Catatan Projek SMA 81 Jkt"
+    Title: "Catatan Projek 81"
     Content: Notes, Projek and Pancasila!
   socialIcons:
     - name: twitter
