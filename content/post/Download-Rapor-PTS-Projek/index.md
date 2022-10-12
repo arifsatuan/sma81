@@ -5,7 +5,7 @@ draft: false
 ---
 ### 1. Pengisian (oleh guru pendamping)
 Pengisian nilai oleh guru pendamping bisa dilakukan di link berikut
-(klik di sini)
+[klik di sini](https://docs.google.com/spreadsheets/d/1tBHV7tGByNs0mbf-6sSjajwS1Rc4NwfCRVRPEOI1SMA/edit)
 
 ### 2. Rapor Projek versi Excel 
 Berikut link download rapor projek untuk wali kelas
