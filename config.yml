@@ -18,7 +18,7 @@ params:
   ShowCodeCopyButtons: true
   showtoc: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Arif Satuan
+  title: Catatan Projek
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: arf
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to Arif Satuan's Note"
-    Content: Notes, docs, hack, edit,
+    Title: "Catatan Projek SMA 81 Jkt"
+    Content: Notes, Projek and Pancasila!
   socialIcons:
     - name: twitter
       url: "https://twitter.com/ariptok"
