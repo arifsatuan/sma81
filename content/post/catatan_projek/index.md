@@ -47,4 +47,17 @@ Link [rekapitulasi di sini](#update-catatan)
 >3. Upload Laporan setelah final (melalui proses revisi) dan disimpan dalam format PDF
 >4. Link format lembar pengesahan ada [di sini](https://docs.google.com/document/d/1Qs5YXfWuuWjVprZev7kM22-rUmaN8M2d0faKk8Ff1pA/copy)
 >5. Link baru rekapitulasi ada [di sini](https://bit.ly/3VaYdsz) | link upload [google drive](https://bit.ly/driveprojek81)
+>6. **Wajib mengisi** [penilaian teman](#penilaian-teman)
+
+> ### penilaian-teman
+> Setiap siswa wajib mengisi dengan **jujur** menilai teman masing-masing sesuai kelas di <br>
+>1. [kelas 10-1](https://forms.gle/f7FYWBrnVoe9G8sX8)</br>
+>2. [kelas 10-2](https://forms.gle/RC9JKj3rew9EX5kk6)</br>
+>3. [kelas 10-3](https://forms.gle/16BY75fHGFRMfY187)</br>
+>4. [kelas 10-4](https://forms.gle/5Xbf2Ht8yWVMNLkM8)</br>
+>5. [kelas 10-5](https://forms.gle/G5aYeNPyDEK4pk5q9)</br>
+>6. [kelas 10-6](https://forms.gle/gaQzxVXbEDA5Bope8)</br>
+>7. [kelas 10-7](https://forms.gle/vfqGfJ3uNE9bqj5n9)</br>
+>8. [kelas 10-8](https://forms.gle/jXq46yEq9FksjFFy9)</br>
+
 
