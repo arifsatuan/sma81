@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Catatan Projek 81</title>
-    <link>https://sma81.pages.dev/</link>
-    <description>Recent content on Catatan Projek 81</description>
+    <title>BAKs on Catatan Projek 81</title>
+    <link>https://sma81.pages.dev/bak/</link>
+    <description>Recent content in BAKs on Catatan Projek 81</description>
     <image>
       <url>https://sma81.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://sma81.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Oct 2022 15:37:51 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 15:37:51 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/bak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penilaian Teman Projek 1</title>
       <link>https://sma81.pages.dev/bak/penilaian-teman-projek1/</link>
@@ -25,51 +25,6 @@ kelas 10-5
 kelas 10-6
 kelas 10-7
 kelas 10-8</description>
-    </item>
-    
-    <item>
-      <title>Penilaian Teman Projek 1</title>
-      <link>https://sma81.pages.dev/post/penilaian-teman-projek1/</link>
-      <pubDate>Wed, 12 Oct 2022 15:37:51 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/penilaian-teman-projek1/</guid>
-      <description>Silakan isikan pada form sesuai kelas Setiap siswa wajib mengisi dengan jujur menilai teman masing-masing sesuai kelas di
-kelas 10-1
-kelas 10-2
-kelas 10-3
-kelas 10-4
-kelas 10-5
-kelas 10-6
-kelas 10-7
-kelas 10-8</description>
-    </item>
-    
-    <item>
-      <title>Download Rapor PTS Projek</title>
-      <link>https://sma81.pages.dev/post/download-rapor-pts-projek/</link>
-      <pubDate>Wed, 12 Oct 2022 13:29:29 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/download-rapor-pts-projek/</guid>
-      <description>1. Pengisian (oleh guru pendamping) Pengisian nilai oleh guru pendamping bisa dilakukan di link berikut klik di sini.
-KODE Kepanjangan SB Sudah Berkembang BSH Berkembang Sesuai Harapan MB Mulai Berkembang BB Belum Berkembang 2. Rapor Projek versi Excel Berikut link download rapor projek untuk wali kelas
-Kelas 10-1
-Kelas 10-2
-Kelas 10-3
-Kelas 10-4
-Kelas 10-5
-Kelas 10-6
-Kelas 10-7
-Kelas 10-8</description>
-    </item>
-    
-    <item>
-      <title>Catatan projek</title>
-      <link>https://sma81.pages.dev/post/catatan_projek/</link>
-      <pubDate>Tue, 04 Oct 2022 11:37:51 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/catatan_projek/</guid>
-      <description>List yang dikumpulkan Pada pelaporan projek, hal yang perlu dipersiapkan
-Wajib mengumpulkan dokumentasi per kelompok di google drive Dokumentasi minimal 5 dengan nama file yang deskriptif, misal : Kegiatan menentukan tempat pelaksanaan.jpg Struktur folder harus terisi seperti berikut ├── 10-1 │ ├── Dok_persiapan │ │ ├──gambar1.jpg │ │ ├──gambar2.jpg │ │ ├── . . . │ │ ├──gambar10.jpg │ ├── Dok_pelaksanaan │ ├── Dok_produk │ ├── Proposal │ │ ├──proposal.pdf │ ├── dst .</description>
     </item>
     
     <item>
@@ -126,8 +81,6 @@ Membuat Folder Gdrive Langkah pertama tentu saja membuat folder utama gdrive dan
 Kedepannya, blog ini semoga konsisten sebagai catatan dan dokumentasi kegiatan sehari-hari.
 Sebagai bukti bahwa blog ini sebagai dokumentasi, ingatlah perintah ini</description>
     </item>
-    
-    
     
   </channel>
 </rss>

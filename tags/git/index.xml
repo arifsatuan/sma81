@@ -12,10 +12,10 @@
     <lastBuildDate>Sun, 02 Oct 2022 11:10:12 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://sma81.pages.dev/post/hello/</link>
+      <link>https://sma81.pages.dev/bak/hello/</link>
       <pubDate>Sun, 02 Oct 2022 11:10:12 +0700</pubDate>
       
-      <guid>https://sma81.pages.dev/post/hello/</guid>
+      <guid>https://sma81.pages.dev/bak/hello/</guid>
       <description>Membuat blog menggunakan HUGO membutuhkan waktu lama dan menguras banyak tenaga di awal. Tentu saja karena bahasa Go yang masih terbilang kurang familiar. Justru ini tantangan, pantang untuk mundur. Toh dari lahir manusia sudah didesain mampu menghadapi kesulitan.
 &amp;ldquo;walaupun sulit, besok juga sulit, kenapa tidak bersenang senang dengan kesulitan sekarang&amp;rdquo;
 Kedepannya, blog ini semoga konsisten sebagai catatan dan dokumentasi kegiatan sehari-hari.

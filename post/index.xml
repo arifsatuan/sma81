@@ -9,7 +9,24 @@
       <link>https://sma81.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Oct 2022 13:29:29 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 15:37:51 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Penilaian Teman Projek 1</title>
+      <link>https://sma81.pages.dev/post/penilaian-teman-projek1/</link>
+      <pubDate>Wed, 12 Oct 2022 15:37:51 +0700</pubDate>
+      
+      <guid>https://sma81.pages.dev/post/penilaian-teman-projek1/</guid>
+      <description>Silakan isikan pada form sesuai kelas Setiap siswa wajib mengisi dengan jujur menilai teman masing-masing sesuai kelas di
+kelas 10-1
+kelas 10-2
+kelas 10-3
+kelas 10-4
+kelas 10-5
+kelas 10-6
+kelas 10-7
+kelas 10-8</description>
+    </item>
+    
     <item>
       <title>Download Rapor PTS Projek</title>
       <link>https://sma81.pages.dev/post/download-rapor-pts-projek/</link>
@@ -36,61 +53,6 @@ Kelas 10-8</description>
       <guid>https://sma81.pages.dev/post/catatan_projek/</guid>
       <description>List yang dikumpulkan Pada pelaporan projek, hal yang perlu dipersiapkan
 Wajib mengumpulkan dokumentasi per kelompok di google drive Dokumentasi minimal 5 dengan nama file yang deskriptif, misal : Kegiatan menentukan tempat pelaksanaan.jpg Struktur folder harus terisi seperti berikut ├── 10-1 │ ├── Dok_persiapan │ │ ├──gambar1.jpg │ │ ├──gambar2.jpg │ │ ├── . . . │ │ ├──gambar10.jpg │ ├── Dok_pelaksanaan │ ├── Dok_produk │ ├── Proposal │ │ ├──proposal.pdf │ ├── dst .</description>
-    </item>
-    
-    <item>
-      <title>Highlight Duplicate di Google Sheets</title>
-      <link>https://sma81.pages.dev/post/highlight_google_spreadsheet/</link>
-      <pubDate>Mon, 03 Oct 2022 12:58:48 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/highlight_google_spreadsheet/</guid>
-      <description>Penggunaan google spreadsheet semenjak pasca pandemi terus meningkat dan menjadi pengganti ms excel.
-Ada kalanya kebutuhan yang ada di ms excel tidak dapat dijawab secara langsung di google spreadsheet, perlu pengaturan khusus. Salah satu yang saya temukan adalah ketiadaan highlight duplicate cell.
-Langkah Langkah pengerjaannya cukup mudah. Pertama pastikan cell mana yang akan dicek duplikasinya. Pada contoh ada di B2 hingga B8. Bisa sebutkan dari B2:B jika ke bawah semaksimalnya.</description>
-    </item>
-    
-    <item>
-      <title>Shortcut Symbol Windows dan Linux</title>
-      <link>https://sma81.pages.dev/post/xcompose/</link>
-      <pubDate>Mon, 03 Oct 2022 11:09:17 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/xcompose/</guid>
-      <description>Bagi sebagian orang menuliskan symbol tertentu tidak terlalu penting, namun bagi sebagian orang hal tersebut menjadi vital. Misal saja seorang guru ingin menuliskan 3akar2 akan lebih baik jika ditulis 3√2. Begitu juga simbol theta, setengah, alfa, pangkat dua dsb θ, ½, α, x²
-Install Menuliskan simbol-simbol umum cukup menggunakan tool yang disebut Compose. Di windows kita gunakan WinCompose sedangkan di linux ada XCompose
-Pada windows hanya cukup install WinCompose di sini</description>
-    </item>
-    
-    <item>
-      <title>Membuat Folder Otomatis</title>
-      <link>https://sma81.pages.dev/post/script_folder/</link>
-      <pubDate>Sun, 02 Oct 2022 16:52:33 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/script_folder/</guid>
-      <description>Pada postingan sebelumnya disebutkan bahwa jika ingin membuat validasi folder sudah terisi atau belum dapat menggunakan script Membaca Folder Google Drive. Masalah muncul jika folder yang disediakan sangat banyak (sejumlah siswa atau karyawan kantor), maka membuat folder juga perlu dikerjakan menggunakan script.
-Pada alamat google drive, ada bagian yang menunjukkan Folder Id
-https://drive.google.com/drive/folders/1NLGj1fbN7Gl2Fp1qVqxoC8OnURxlFl1l Perhatikan 1NLGj1fbN7Gl2Fp1qVqxoC8OnURxlFl1l adalah folder Id. Kemudian buat script baru dengan klik New di google drive -&amp;gt; more -&amp;gt; Google Appscript</description>
-    </item>
-    
-    <item>
-      <title>Membaca Folder Google Drive Otomatis</title>
-      <link>https://sma81.pages.dev/post/script_gdrive/</link>
-      <pubDate>Sun, 02 Oct 2022 15:18:27 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/script_gdrive/</guid>
-      <description>Catatan kali ini diinspirasi dari &amp;ldquo;kemalasan&amp;rdquo; untuk tiap folder di google drive. Ceritanya sedang membuat folder yang diisi bersama, namun perlu dikonfirmasi siapa saja yang sudah dan siapa saja yang belum. Jika hanya kurang dari 10 tentu tidak masalah, lain halnya jika banyak folder yang harus dicek.
-Membuat Folder Gdrive Langkah pertama tentu saja membuat folder utama gdrive dan catat ID folder. Misal kita buat folder dengan nama MainFolder dan berisi subfolder seperti berikut Dimana nanti akhirnya kita ingin setiap subfolder diisi/diupload penanggungjawabnya seperti subfolder3 dan subfolder4</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://sma81.pages.dev/post/hello/</link>
-      <pubDate>Sun, 02 Oct 2022 11:10:12 +0700</pubDate>
-      
-      <guid>https://sma81.pages.dev/post/hello/</guid>
-      <description>Membuat blog menggunakan HUGO membutuhkan waktu lama dan menguras banyak tenaga di awal. Tentu saja karena bahasa Go yang masih terbilang kurang familiar. Justru ini tantangan, pantang untuk mundur. Toh dari lahir manusia sudah didesain mampu menghadapi kesulitan.
-&amp;ldquo;walaupun sulit, besok juga sulit, kenapa tidak bersenang senang dengan kesulitan sekarang&amp;rdquo;
-Kedepannya, blog ini semoga konsisten sebagai catatan dan dokumentasi kegiatan sehari-hari.
-Sebagai bukti bahwa blog ini sebagai dokumentasi, ingatlah perintah ini</description>
     </item>
     
   </channel>

@@ -12,10 +12,10 @@
     <lastBuildDate>Mon, 03 Oct 2022 12:58:48 +0700</lastBuildDate><atom:link href="https://sma81.pages.dev/tags/googlesheets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Highlight Duplicate di Google Sheets</title>
-      <link>https://sma81.pages.dev/post/highlight_google_spreadsheet/</link>
+      <link>https://sma81.pages.dev/bak/highlight_google_spreadsheet/</link>
       <pubDate>Mon, 03 Oct 2022 12:58:48 +0700</pubDate>
       
-      <guid>https://sma81.pages.dev/post/highlight_google_spreadsheet/</guid>
+      <guid>https://sma81.pages.dev/bak/highlight_google_spreadsheet/</guid>
       <description>Penggunaan google spreadsheet semenjak pasca pandemi terus meningkat dan menjadi pengganti ms excel.
 Ada kalanya kebutuhan yang ada di ms excel tidak dapat dijawab secara langsung di google spreadsheet, perlu pengaturan khusus. Salah satu yang saya temukan adalah ketiadaan highlight duplicate cell.
 Langkah Langkah pengerjaannya cukup mudah. Pertama pastikan cell mana yang akan dicek duplikasinya. Pada contoh ada di B2 hingga B8. Bisa sebutkan dari B2:B jika ke bawah semaksimalnya.</description>
